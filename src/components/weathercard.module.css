@@ -1,0 +1,32 @@
+/* WeatherCard.module.css */
+
+.weather-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  width: 200px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.weather-title {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.weather-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.weather-location {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.weather-description {
+  color: #555;
+}

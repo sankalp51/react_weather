@@ -1,0 +1,16 @@
+/* App.module.css */
+
+.select-container {
+    margin-bottom: 20px;
+  }
+  
+  .select-dropdown {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .option {
+    font-size: 14px;
+    color: #333;
+  }
+  
